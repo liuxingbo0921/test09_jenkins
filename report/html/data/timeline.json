@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-CU17CM9",
+    "children" : [ {
+      "name" : "4268-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login1",
+        "uid" : "3d124de4952d44dc",
+        "parentUid" : "092866404bed76556c34f780fd880561",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552014474725,
+          "stop" : 1552014474759,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test_login3",
+        "uid" : "d5a9cf34517eaa53",
+        "parentUid" : "092866404bed76556c34f780fd880561",
+        "status" : "failed",
+        "time" : {
+          "start" : 1552014474772,
+          "stop" : 1552014474874,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test_login2",
+        "uid" : "41b1d6cf985068ef",
+        "parentUid" : "092866404bed76556c34f780fd880561",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552014474763,
+          "stop" : 1552014474768,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "092866404bed76556c34f780fd880561"
+    } ],
+    "uid" : "f18d5752bc233b8b11dc5fbf737516e8"
+  } ]
+}
